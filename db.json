@@ -1,4 +1,9 @@
 {
+  POST /kruzhovv/testdb/keys HTTP/1.1
+Host: my-json-server.typicode.com
+Accept: application/json
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 39
   "keys": 
     {  }
     
